@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shk305/Dog_Breed_Identification/Development?filepath=%2Fnotebooks%2FKhanSharjil_FinalProject.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shk305/Dog_Breed_Identification/Development?urlpath=lab/tree/notebooks/KhanSharjil_FinalProject.ipynb)
 
 Dog_Breed_Identification
 ==============================
