@@ -1,7 +1,8 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shk305/Dog_Breed_Identification/Development?filepath=%2Fnotebooks%2FKhanSharjil_FinalProject.ipynb)
 Dog_Breed_Identification
 ==============================
 
-This project uses a convolutional neural network model to guess a dog's breed from an image of the dog. 
+This project uses a convolutional neural network model to guess a dogs breed from an image of the dog. 
 
 Project Organization
 ------------
