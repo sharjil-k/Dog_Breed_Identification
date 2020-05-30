@@ -5,7 +5,7 @@
 #################################################################################
 
 PROJECT_DIR := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
-BUCKET = dogimagesfromstanford
+BUCKET = dog-breed-detection
 PROFILE = default
 PROJECT_NAME = dog_breed_identification
 PYTHON_INTERPRETER = python3
