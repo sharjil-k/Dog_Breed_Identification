@@ -8,13 +8,14 @@ verify_ssl = true
 [packages]
 numpy = "*"
 opencv-python = "*"
-tensorflow = "*"
 keras = "*"
 sklearn = "*"
 matplotlib = "*"
 jupyterlab = "*"
 pandas = "*"
 awscli = "*"
+pillow = "*"
+tensorflow="*"
 
 [requires]
 python_version = "3.7"
