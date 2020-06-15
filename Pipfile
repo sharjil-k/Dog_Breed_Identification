@@ -15,7 +15,7 @@ jupyterlab = "*"
 pandas = "*"
 awscli = "*"
 pillow = "*"
-tensorflow="*"
+tensorflow="1.9.0"
 
 [requires]
 python_version = "3.7"
